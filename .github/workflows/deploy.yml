@@ -33,4 +33,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
-          publish_dir: ./dist # The directory where Parcel outputs the build (change if using a different directory)
+          publish_dir: ./docs # The directory where Parcel outputs the build (change if using a different directory)
