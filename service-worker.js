@@ -3,9 +3,8 @@ const STATIC_FILES = [
     '/',
     '/index.html',
     '/style.css',
-    '/app.js',
+    '/script.js',
     '/firebase-config.js',
-    '/favicon.ico', // Add this if you have a favicon
 ];
 
 // Install event - Cache the essential files

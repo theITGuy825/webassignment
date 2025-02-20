@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Trigger deployment on push to the `main` branch
+      - main  # Trigger deployment on push to the main branch
 
 jobs:
   deploy:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Step 2: Set up Node.js environment
+      # Step 2: Set up Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
@@ -28,9 +28,17 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      # Step 5: Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
-          publish_dir: ./docs # The directory where Parcel outputs the build (change if using a different directory)
+      # Step 5: Copy the build output from dist to docs
+      - name: Copy build to docs folder
+        run: |
+          rm -rf docs  # Remove any existing docs folder
+          mv dist docs  # Move dist folder contents to docs
+
+      # Step 6: Commit changes and push to main branch
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add docs
+          git commit -m "Deploy build to GitHub Pages"
+          git push origin main
