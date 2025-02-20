@@ -3,29 +3,34 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Trigger the deployment on push to the `main` branch. Change this if you're using a different branch.
+      - main # Trigger deployment on push to the `main` branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # Step 2: Set up Node.js environment
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16' # Set your preferred Node.js version
+          node-version: '16'
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # Step 4: Build the project (run Parcel build)
       - name: Build the project
         run: npm run build
 
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist # This is the directory Parcel creates during the build. It may be different, like `./build` depending on your configuration.
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use the default GitHub token
+          publish_dir: ./dist # The directory where Parcel outputs the build (change if using a different directory)
