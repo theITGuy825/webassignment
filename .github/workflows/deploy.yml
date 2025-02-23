@@ -1,10 +1,12 @@
 name: Deploy Vanilla JavaScript PWA Budget Planner
 
 on:
+  workflow_dispatch:
   push:
     branches:
-      - master
+      - main
 
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
