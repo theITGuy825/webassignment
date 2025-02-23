@@ -28,11 +28,11 @@ jobs:
             npm run build  # Or your specific build command
           fi
 
-      # Step 4: Move build from dist to docs
-      - name: Move build from dist to docs
-        run: |
-          mv ./dist/* ./docs/  # Move everything from dist to docs
-          rm -rf ./dist  # Remove the dist directory
+      # # Step 4: Move build from dist to docs
+      # - name: Move build from dist to docs
+      #   run: |
+      #     mv ./dist/* ./docs/  # Move everything from dist to docs
+      #     rm -rf ./dist  # Remove the dist directory
 
       # Step 5: Deploy to GitHub Pages using actions/deploy-pages@v4
       - name: Deploy to GitHub Pages
