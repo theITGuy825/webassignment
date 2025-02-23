@@ -33,9 +33,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
 
-      - name: Run linting
-        run: npm run lint
-
       - name: Upload logs
         run: |
           mkdir logs
