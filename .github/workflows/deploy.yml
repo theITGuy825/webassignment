@@ -1,4 +1,4 @@
-name: Deploy Vanilla JavaScript PWA Budget Planner App
+name: Deploy Vanilla JavaScript PWA Budget Planner
 
 on:
   push:
