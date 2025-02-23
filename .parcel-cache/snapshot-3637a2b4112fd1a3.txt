@@ -164,7 +164,7 @@
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\firestore\lite\dist\compat\remote-config133848234883979362 1
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\ordered-binary133848234782460593 1
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\yargs\build\lib\utils\which-module.js133848234796822312 0
-96F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\manifest.json133848250047459814 0
+96F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\manifest.json133848267841902965 0
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\balanced-match133848234775039606 1
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\common-targets133848234817839290 1
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\is-arguments\README.md133848234780465038 0
@@ -222,7 +222,7 @@
 126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\cjs\_identity.cjs133848234804013860 0
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\GetServersResponse.ts133848234821471606 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\uuid\dist\cjs-browser\v6ToV1.d.ts133848234812816830 0
-100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\service-worker.js133848252514162078 0
+100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\service-worker.js133848267822253524 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\msgpackr-extract\node_modules\.bin133848234891519048 1
 106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax133848234807656102 1
 104F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@js-sdsl133848234756286194 1
