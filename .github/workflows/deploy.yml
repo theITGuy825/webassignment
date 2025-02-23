@@ -23,6 +23,11 @@ jobs:
       # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
+        
+      
+      # Step 3.1: check firebase
+      - name: check firebase
+        run: npm list firebase
 
       # Step 4: Build the project (run Parcel build)
       - name: Build the project
