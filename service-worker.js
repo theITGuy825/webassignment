@@ -1,10 +1,10 @@
 const CACHE_NAME = "budget-planner-pwa-cache-v1";
 const FILES_TO_CACHE = [
-  "/webassignemnt/",
-  "/webassignemnt/index.html",
-  "/webassignemnt/style.css",
-  "/webassignemnt/app.js",
-  "/webassignemnt/manifest.json",
+  "/webassignment/",
+  "/webassignment/index.html",
+  "/webassignment/style.css",
+  "/webassignment/app.js",
+  "/webassignment/manifest.json",
 ];
 self.addEventListener("install", (event) => {
   event.waitUntil(
