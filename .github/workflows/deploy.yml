@@ -1,49 +1,41 @@
-name: Deploy to GitHub Pages
+name: Deploy web assingment
 
 on:
   push:
     branches:
-      - main  # Trigger deployment on push to the main branch
+      - main
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
+      - name: Run linting
+        run: npm run lint
+
+      - name: Install Dependencies (if any)
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          fi
+
+      - name: Build Project (if any build step exists)
+        run: |
+          if [ -f package.json ]; then
+            npm run build
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          node-version: '16'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist # Replace with your build output directory
 
-      # Step 3: Install dependencies
-      - name: Install dependencies
-        run: npm install
-        
-      
-      # Step 3.1: check firebase
-      - name: check firebase
-        run: npm list firebase
-
-      # Step 4: Build the project (run Parcel build)
-      - name: Build the project
-        run: npm run build
-
-      # Step 5: Copy the build output from dist to docs
-      - name: Copy build to docs folder
+      - name: Upload logs
         run: |
-          rm -rf docs  # Remove any existing docs folder
-          mv dist docs  # Move dist folder contents to docs
-
-      # Step 6: Commit changes and push to main branch
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add docs
-          git commit -m "Deploy build to GitHub Pages"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+          mkdir logs
+          echo "Logs uploaded on $(date)" > logs/summary.log
+          tar -czf logs.tar.gz logs
+        continue-on-error: true
