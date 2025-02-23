@@ -1,0 +1,2 @@
+const e=["/webassignemnt/","/webassignemnt/index.html","/webassignemnt/style.css","/webassignemnt/app.js","/webassignemnt/manifest.json"];self.addEventListener("install",s=>{s.waitUntil(caches.open("budget-planner-pwa-cache-v1").then(s=>s.addAll(e)))}),self.addEventListener("fetch",e=>{e.respondWith(caches.match(e.request).then(s=>s||fetch(e.request)))});
+//# sourceMappingURL=service-worker.b7189322.js.map

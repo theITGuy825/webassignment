@@ -1,51 +1,42 @@
-name: Deploy Web Assignment
+name: Deploy Vanilla JavaScript PWA Budget Planner App
 
 on:
   push:
     branches:
-      - main  # Trigger deployment on push to the main branch
-permissions:
-  id-token: write  # Grant the required permission for deploying to GitHub Pages
+      - master
+
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest  # Running the workflow on Ubuntu
+    runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Install Dependencies (if package.json exists)
       - name: Install Dependencies (if any)
         run: |
           if [ -f package.json ]; then
             npm install
           fi
 
-      # Step 3: Build Project (if build step exists)
       - name: Build Project (if any build step exists)
         run: |
           if [ -f package.json ]; then
-            npm run build  # Or your specific build command
+            npm run build
           fi
 
-      # # Step 4: Move build from dist to docs
-      # - name: Move build from dist to docs
-      #   run: |
-      #     mv ./dist/* ./docs/  # Move everything from dist to docs
-      #     rm -rf ./dist  # Remove the dist directory
-
-      # Step 5: Deploy to GitHub Pages using actions/deploy-pages@v4
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
 
-      # Step 6: Upload logs (optional)
+      - name: Run linting
+        run: npm run lint
+
       - name: Upload logs
         run: |
           mkdir logs
-          echo "Logs uploaded on $(date)" > logs/summary.log  # Generate a simple log
-          tar -czf logs.tar.gz logs  # Compress logs
-        continue-on-error: true  # Continue even if log upload fails
+          echo "Logs uploaded on $(date)" > logs/summary.log
+          tar -czf logs.tar.gz logs
+        continue-on-error: true
