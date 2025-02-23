@@ -1,4 +1,4 @@
-14851
+14853
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\dist\modules\attribution\onFID.d.ts133848136762176916 0
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\dist\unpacker\region.js133848136786808394 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133848136747288734 0
@@ -45,7 +45,7 @@
 93F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\.gitignore133848116020933271 0
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\app\dist\data-connect\index.d.ts133848136793478623 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\rn\src\core\auth\register.d.ts133848136813778375 0
-87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist133848148322652993 1
+87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist133848150511793113 1
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\idb\build\entry.d.ts133848136751087303 0
 160F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\cordova\src\core\auth\firebase_internal.d.ts133848136789026870 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file133848136767369133 1
@@ -82,7 +82,7 @@
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\compat\app-check133848136815228418 1
 152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\node\src\core\credentials\index.d.ts133848136795166668 0
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\events\LICENSE133848136744167436 0
-101F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\firebase-config.js133848148238492658 0
+101F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\firebase-config.js133848150459744127 0
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\commander\LICENSE133848136744077920 0
 175F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-compat\dist\esm\auth-compat\test\integration\flows\idp.test.d.ts133848136758296495 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore-compat\dist\src\api133848136760960759 1
@@ -14848,5 +14848,7 @@
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\update-browserslist-db.cmd133848136820610622 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\update-browserslist-db.ps1133848136820610622 0
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist\index.6a53d415.css.map133848148322637440 0
-98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist\index.html133848148322485456 0
+105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist\index.e981ebdf.js133848150511678196 0
+109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist\index.e981ebdf.js.map133848150511777515 0
+98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\dist\index.html133848150511672961 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\.github\workflows\deploy.yml133848116020933271 0
