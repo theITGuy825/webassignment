@@ -8,6 +8,14 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="manifest" href="manifest.json">
 </head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KPGERRCZB5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KPGERRCZB5');
+</script>
 <body>
     <header>
         <h1>Ethan Hendersons Budget Planner</h1>
@@ -45,6 +53,14 @@
             <p>Total Expenses: $<span id="totalExpenses">0</span></p>
             <p>Balance: $<span id="balance">0</span></p>
         </section>
+        
+        <section>
+            <div id="chatbot-container">
+              <div id="chat-history"></div>
+              <input type="text" id="chat-input">
+              <button id="send-btn">Send</button>
+          </div>
+          </section>
     </main>
 
     <script type="module" src="script.js"></script>

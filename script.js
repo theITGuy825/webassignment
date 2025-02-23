@@ -158,3 +158,54 @@ async function addExpenseToFirestore(amount, category) {
     }
 }
 
+
+
+
+
+
+// Chatbot Implementation
+const chatHistory = document.getElementById('chat-history');
+const chatInput = document.getElementById('chat-input');
+const sendBtn = document.getElementById('send-btn');
+
+async function getApiKey() {
+    let snapshot = await getDoc(doc(db, "apikey", "googlegenai"));
+    return snapshot.data().key;
+}
+
+async function askChatBot(request) {
+    const apiKey = await getApiKey();
+    const genAI = new GoogleGenerativeAI(apiKey);
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const response = await model.generateContent(request);
+    return response.text();
+}
+
+function appendMessage(text, isUser = false) {
+    const message = document.createElement("div");
+    message.classList.add("message", isUser ? "user-message" : "bot-message");
+    message.textContent = text;
+    chatHistory.appendChild(message);
+    chatHistory.scrollTop = chatHistory.scrollHeight;
+}
+
+sendBtn.addEventListener('click', async () => {
+    const userInput = chatInput.value.trim();
+    if (!userInput) return;
+    appendMessage(userInput, true);
+    chatInput.value = '';
+    
+    const botResponse = await askChatBot(userInput);
+    appendMessage(botResponse, false);
+});
+
+// Load previous chat history if needed (from Firebase)
+async function loadChatHistory() {
+    const chatSnapshot = await getDocs(collection(db, "chat-history"));
+    chatSnapshot.forEach(doc => {
+        appendMessage(doc.data().message, doc.data().isUser);
+    });
+}
+
+window.addEventListener('load', loadChatHistory);
+
