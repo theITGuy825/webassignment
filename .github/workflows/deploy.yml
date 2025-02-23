@@ -1,38 +1,54 @@
-name: Deploy web assingment
+name: Deploy Web Assignment
 
 on:
   push:
     branches:
-      - main
+      - main  # Trigger deployment on push to the main branch
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Running the workflow on Ubuntu
+
     steps:
+      # Step 1: Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Step 2: Install Dependencies (if package.json exists)
       - name: Install Dependencies (if any)
         run: |
           if [ -f package.json ]; then
             npm install
           fi
 
+      # Step 3: Build Project (if build step exists)
       - name: Build Project (if any build step exists)
         run: |
           if [ -f package.json ]; then
-            npm run build
+            npm run build  # Or your specific build command
           fi
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist # Replace with your build output directory
+      # Step 4: Move build from dist to docs
+      - name: Move build from dist to docs
+        run: |
+          mv ./dist/* ./docs/  # Move everything from dist to docs
+          rm -rf ./dist  # Remove the dist directory
 
+      # Step 5: Deploy to GitHub Pages using actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
+          timeout: 600000  # Set deployment timeout (adjust if necessary)
+          error_count: 10  # Retry 10 times if deployment fails
+          reporting_interval: 5000  # Set report interval for status updates (in ms)
+          artifact_name: github-pages  # Name of the artifact to be deployed
+          preview: false  # Set to false to disable preview
+
+      # Step 6: Upload logs (optional)
       - name: Upload logs
         run: |
           mkdir logs
-          echo "Logs uploaded on $(date)" > logs/summary.log
-          tar -czf logs.tar.gz logs
-        continue-on-error: true
+          echo "Logs uploaded on $(date)" > logs/summary.log  # Generate a simple log
+          tar -czf logs.tar.gz logs  # Compress logs
+        continue-on-error: true  # Continue even if log upload fails
