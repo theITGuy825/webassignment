@@ -130,7 +130,7 @@
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\remote-config\dist\compat\index.node.d.ts133848136819521907 0
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\extended-system-fonts.js133848136781210409 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\msgpackr-extract\node_modules\.bin133848136820590601 1
-100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\service-worker.js133848116022400847 0
+100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\service-worker.js133848152957029444 0
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\functions\dist\esm\messaging133848136814837635 1
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\cache\src\FSCache.js133848136745327567 0
 100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin133848136820600626 1
