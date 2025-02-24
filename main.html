@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budget Planner</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+</head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KPGERRCZB5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-KPGERRCZB5');
+</script>
+
+<body>
+    <header>
+        <h1>Ethan Henderson's Budget Planner</h1>
+        <button id="logoutBtn">Logout</button> <!-- Logout Button -->
+    </header>
+
+    <main>
+        <!-- Income Section -->
+        <section>
+            <h2>Add Income</h2>
+            <input type="number" id="incomeInput" placeholder="Enter income amount">
+            <button id="addIncomeBtn">Add Income</button>
+        </section>
+
+        <!-- Expense Section -->
+        <section>
+            <h2>Add Expense</h2>
+            <input type="number" id="expenseAmountInput" placeholder="Enter expense amount">
+            <input type="text" id="expenseCategoryInput" placeholder="Enter category">
+            <button id="addExpenseBtn">Add Expense</button>
+        </section>
+
+        <!-- Lists of Income and Expenses -->
+        <section>
+            <h2>Income List</h2>
+            <ul id="incomeList"></ul>
+
+            <h2>Expense List</h2>
+            <ul id="expenseList"></ul>
+        </section>
+
+        <!-- Summary Section -->
+        <section>
+            <h2>Summary</h2>
+            <p>Total Income: $<span id="totalIncome">0</span></p>
+            <p>Total Expenses: $<span id="totalExpenses">0</span></p>
+            <p>Balance: $<span id="balance">0</span></p>
+        </section>
+
+        <!-- Chatbot Box -->
+        <section>
+            <div id="chatbot-box">
+                <h3>Chat with us</h3>
+                <div id="chat-history"></div>
+                <input type="text" id="chat-input" placeholder="Type your message...">
+                <button id="send-btn">Send</button>
+            </div>
+        </section>
+
+    </main>
+
+    <script type="module" src="authGuard.js"></script>  <!-- Protect main.html -->
+    <script type="module" src="app.js"></script>
+    <script type="module" src="logout.js"></script>  <!-- Logout functionality -->
+
+    <script type="module">
+        const sw = new URL('service-worker.js', import.meta.url);
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register(sw.href, { scope: '/webassignment/' })
+                .then(() => console.log('Service Worker Registered'))
+                .catch(err => console.error('Service Worker Error:', err));
+        }
+    </script>
+</body>
+</html>
