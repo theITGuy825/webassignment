@@ -169,14 +169,14 @@ const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendBtn = document.getElementById('send-btn');
 
-async function getApiKey() {
-    let snapshot = await getDoc(doc(db, "apikey", "googlegenai"));
-    return snapshot.data().key;
-}
+// async function getApiKey() {
+//     let snapshot = await getDoc(doc(db, "apikey", "googlegenai"));
+//     return snapshot.data().key;
+// }
 
 async function askChatBot(request) {
     try {
-        const apiKey = await getApiKey();  // Get the API key from Firestore
+        const apiKey = 'AIzaSyBkppk3HT86e4zfzq-YYg1OBiy6r5ybNeo'
         const genAI = new GoogleGenerativeAI(apiKey);  // Initialize the AI with the API key
 
         const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });  // Get the generative model
