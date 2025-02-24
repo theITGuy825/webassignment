@@ -4,7 +4,10 @@ const FILES_TO_CACHE = [
   "/webassignment/index.html",
   "/webassignment/style.css",
   "/webassignment/app.js",
+  "/webassignment/login.js",
   "/webassignment/manifest.json",
+  "/webassignment/firebaseconfig.js",
+  "/webassignment/main.html",
 ];
 self.addEventListener("install", (event) => {
   event.waitUntil(
