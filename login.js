@@ -1,5 +1,5 @@
 import { auth } from "./firebaseconfig";
-import { signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
+import { signInWithEmailAndPassword, createUserWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 
 // DOM Elements
 const emailInput = document.getElementById("email");
@@ -7,6 +7,7 @@ const passwordInput = document.getElementById("password");
 const loginBtn = document.getElementById("loginBtn");
 const googleSignInBtn = document.getElementById("googleSignInBtn");
 const biometricSignInBtn = document.getElementById("biometricSignInBtn");
+const createAccountBtn = document.getElementById("createAccountBtn");
 const messageElem = document.getElementById("message");
 
 // Login with Email and Password
@@ -58,6 +59,24 @@ biometricSignInBtn.addEventListener("click", async () => {
         } else {
             messageElem.textContent = "Biometric authentication failed.";
         }
+    } catch (error) {
+        messageElem.textContent = "Error: " + error.message;
+    }
+});
+
+// Create Account with Email and Password
+createAccountBtn.addEventListener("click", async () => {
+    const email = emailInput.value.trim();
+    const password = passwordInput.value.trim();
+
+    if (email === "" || password === "") {
+        messageElem.textContent = "Please enter both email and password.";
+        return;
+    }
+
+    try {
+        await createUserWithEmailAndPassword(auth, email, password);
+        messageElem.textContent = "Account created successfully!";
     } catch (error) {
         messageElem.textContent = "Error: " + error.message;
     }
