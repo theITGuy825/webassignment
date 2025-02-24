@@ -1,4 +1,4 @@
-import { getDoc, getDocs, addDoc, getFirestore, collection } from
+import { getDoc, getDocs, addDoc, getFirestore, collection, doc } from
 "firebase/firestore";
 import { initializeApp } from "firebase/app";
 import { GoogleGenerativeAI } from '@google/generative-ai';
