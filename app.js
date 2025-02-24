@@ -21,6 +21,14 @@ console.log("Firestore initialized:", db);
 const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendBtn = document.getElementById('send-btn');
+const incomeInput = document.getElementById('incomeInput');
+const addIncomeBtn = document.getElementById('addIncomeBtn');
+const expenseAmountInput = document.getElementById('expenseAmountInput');
+const expenseCategoryInput = document.getElementById('expenseCategoryInput');
+const addExpenseBtn = document.getElementById('addExpenseBtn');
+const totalIncomeElem = document.getElementById('totalIncome');
+const totalExpensesElem = document.getElementById('totalExpenses');
+const balanceElem = document.getElementById('balance');
 
 // Function to sanitize user input
 function sanitizeInput(input) {
@@ -71,3 +79,29 @@ async function askChatBot(request) {
         return "Sorry, there was an error. Please try again later.";
     }
 }
+
+// Add Income
+addIncomeBtn.addEventListener('click', async () => {
+    const incomeAmount = parseFloat(sanitizeInput(incomeInput.value.trim()));
+    if (!isNaN(incomeAmount) && incomeAmount > 0) {
+        await addDoc(collection(db, "incomes"), { amount: incomeAmount });
+        incomeInput.value = '';
+        alert("Income added successfully!");
+    } else {
+        alert("Please enter a valid income amount.");
+    }
+});
+
+// Add Expense
+addExpenseBtn.addEventListener('click', async () => {
+    const expenseAmount = parseFloat(sanitizeInput(expenseAmountInput.value.trim()));
+    const expenseCategory = sanitizeInput(expenseCategoryInput.value.trim());
+    if (!isNaN(expenseAmount) && expenseAmount > 0 && expenseCategory) {
+        await addDoc(collection(db, "expenses"), { amount: expenseAmount, category: expenseCategory });
+        expenseAmountInput.value = '';
+        expenseCategoryInput.value = '';
+        alert("Expense added successfully!");
+    } else {
+        alert("Please enter a valid expense amount and category.");
+    }
+});
