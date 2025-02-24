@@ -1,4 +1,4 @@
-22292
+22398
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\md5.js\package.json133848234770006071 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\index.cjs.js.map133848234851433583 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\dist\modules\lib\doubleRAF.js133848234782238212 0
@@ -58,7 +58,7 @@
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\firestore\src\core133848234870203213 1
 165F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\src\platform\node\base64.d.ts133848234823072525 0
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\app\index.d.ts133848234882842514 0
-89F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\app.js133848235675810033 0
+89F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\app.js133848301120024311 0
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\object-inspect\package.json133848234798043450 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\cordova\src\core\providers133848234884716033 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\proto3-json-serializer\build\src\index.d.ts133848234801708472 0
@@ -104,7 +104,7 @@
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\lines-and-columns\build133848234775581884 1
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\remote-config\dist\esm\auth\cordova133848234873491264 1
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\remote-config\dist\compat\functions133848234887433476 1
-87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs133848253107908508 1
+87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs133848301258988549 1
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\esm\compat\index.cdn.d.ts133848234852572272 0
 103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\asn1.js133848234772443483 1
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\app-check\dist\compat\index.rn.d.ts133848234890719950 0
@@ -155,7 +155,7 @@
 186F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\generated\google\protobuf\BoolValue.js.map133848234810998715 0
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\websocket-driver\README.md133848234786310643 0
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\subresource-integrity.js133848234852662611 0
-93F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\index.html133848238815249447 0
+93F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\index.html133848272366031488 0
 181F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\browser-cjs\test\integration\flows\middleware_test_generator.d.ts133848234871124447 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\vm-browserify\example\run133848234776908700 1
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\node-esm\src\core\util\fetch_provider.d.ts133848234853080920 0
@@ -170,7 +170,7 @@
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\is-arguments\README.md133848234780465038 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@fastify\busboy\lib\utils\decodeText.js133848234776858455 0
 152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\installations-compat\dist\esm\index.esm2017.js133848234772508556 0
-95F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules133848237518652554 1
+95F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules133848300411820213 1
 117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\browser\jwt133848234820399067 1
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\duplexify\package.json133848234775967284 0
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\src\deprecated.ts133848234807021038 0
@@ -179,9 +179,9 @@
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\type-fest\index.d.ts133848234783726830 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\entities\lib\esm\decode_codepoint.js.map133848234797153099 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\cordova\src\core\providers\oauth.d.ts133848234871691180 0
-113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@msgpackr-extract133848237518652554 1
+113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@msgpackr-extract133848300411820213 1
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\remote-config\dist\compat\index.perf.d.ts133848234890478960 0
-95F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\package.json133848242213387147 0
+95F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\package.json133848300411830201 0
 150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\esm\messaging\index.d.ts133848234870506229 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel-weakmap\test133848234776648073 1
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\remote-config\dist\esm\compat\database133848234887619275 1
@@ -193,7 +193,7 @@
 180F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\SocketOption.ts133848234823742225 0
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\set-function-length133848234780962255 1
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\rn\src\core\credentials\saml.d.ts133848234883529235 0
-100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\package-lock.json133848237519388048 0
+100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\package-lock.json133848300412560840 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\app-check\dist\compat\app133848234866204245 1
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\analytics-compat\dist\esm\src133848234782784732 1
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\app-check\dist\app\index.d.ts133848234868938360 0
@@ -233,7 +233,7 @@
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\dist\modules\lib\onHidden.d.ts133848234810802510 0
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\bin\eslint.js133848234808433030 0
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\stream-browserify\.travis.yml133848234781242333 0
-92F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\style.css133848233842028567 0
+92F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\style.css133848272231514475 0
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\readable-stream\lib\internal\streams\state.js133848234784862504 0
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\tr46\lib\.gitkeep133848234774200253 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\create-ecdh\node_modules\bn.js\util\genCombMulTo10.js133848234776658074 0
@@ -250,7 +250,7 @@
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\rn\src\api\account_management\account.d.ts133848234820192859 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\src\platform_browser\util\worker.d.ts133848234885587548 0
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\dotenv-expand\CHANGELOG.md133848234775967284 0
-114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.package-lock.json133848237519833465 0
+114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.package-lock.json133848300413006317 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\remote-config\dist\esm\compat\app-check\index.d.ts133848234887584177 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\dom-serializer\lib\esm\index.d.ts133848234783099090 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\teeny-request\node_modules\agent-base\package.json133848234773925801 0
@@ -301,7 +301,12 @@
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\compat\database\index.d.ts133848234885587548 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\compat\performance133848234869892967 1
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@eslint-community133848234756451576 1
+152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\installations\index.d.ts133848234885327273 0
+103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google133848300409388806 1
+129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\util\dist\node-esm\test133848234808453016 1
+109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\parent-module133848234773986623 1
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\browserify-aes\package.json133848234770819001 0
+160F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods\chat-session-helpers.d.ts133848300411328748 0
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\esm\compat\firestore\index.d.ts133848234885821194 0
 107F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\ansi-styles133848234775316817 1
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\gaxios\build\src\index.d.ts133848234784814130 0
@@ -375,7 +380,7 @@
 102F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@lezer133848234756511951 1
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\analytics\dist\esm133848234868852738 1
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\performance\dist\src\services\remote_config_service.d.ts133848234803501265 0
-101F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@lmdb133848237518652554 1
+101F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@lmdb133848300411820213 1
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\storage\dist\index.cjs.js.map133848234851422304 0
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel-list\list.d.ts133848234781242333 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\dist\modules\lib\runOnce.js133848234803223062 0
@@ -397,7 +402,7 @@
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\app-check\index.d.ts133848234869802527 0
 105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@mischnic133848234756286194 1
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\sw\dist\esm\compat\index.d.ts133848234886439637 0
-100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc133848237518652554 1
+100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc133848300411820213 1
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\functions\dist\esm\compat\firestore\index.d.ts133848234884680960 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\css-initial-value.js133848234816213988 0
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\whatwg-url\lib133848234779100764 1
@@ -423,7 +428,7 @@
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js133848234805059450 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\firestore\dist\index.cjs.js.map133848234851443586 0
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\htmlparser2\lib\esm\index.js133848234772403437 0
-103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel133848237518652554 1
+103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel133848300411820213 1
 100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\util133848234778119312 1
 108F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\bignumber.js133848234781362780 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\firestore\index.d.ts133848234883243736 0
@@ -571,6 +576,14 @@
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\domutils\lib\manipulation.js133848234781312782 0
 102F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\braces133848234780220173 1
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\dist\compat\remote-config133848234867834183 1
+126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@protobufjs\float\package.json133848234770884018 0
+158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\node-esm\src\core\view\EventQueue.d.ts133848234814887557 0
+111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\md5.js\index.js133848234771713873 0
+162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esm\experimental\trace\SugaredTracer.d.ts133848234851483585 0
+149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\app-check-compat\dist\src\service.test.d.ts133848234783049094 0
+141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\uuid\dist\validate.js133848234806198776 0
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\posthtml\node_modules\entities\lib\decode.d.ts.map133848234784112353 0
+103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\brorand133848234775039606 1
 148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\remote-config\dist\esm\remote-config133848234880969469 1
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\dist\app\index.cdn.d.ts133848234852199763 0
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\uuid\README.md133848234809620011 0
@@ -581,14 +594,6 @@
 106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\node-forge133848234808239798 1
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\browserify-cipher133848234777524474 1
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\no-inner-declarations.js133848234819589153 0
-126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@protobufjs\float\package.json133848234770884018 0
-158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\node-esm\src\core\view\EventQueue.d.ts133848234814887557 0
-111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\md5.js\index.js133848234771713873 0
-162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esm\experimental\trace\SugaredTracer.d.ts133848234851483585 0
-149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\app-check-compat\dist\src\service.test.d.ts133848234783049094 0
-141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\uuid\dist\validate.js133848234806198776 0
-146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\posthtml\node_modules\entities\lib\decode.d.ts.map133848234784112353 0
-103F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\brorand133848234775039606 1
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\vertexai\dist\vertexai133848234889175884 1
 152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\vertexai\index.d.ts133848234868449311 0
 120F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build133848234780345245 1
@@ -622,6 +627,7 @@
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\http-proxy-agent\node_modules\agent-base\dist\src133848234780118740 1
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\browser\util\base64url.js133848234792818870 0
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel\tsconfig.json133848234778718479 0
+148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\content.d.ts133848300411368758 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\browserify-zlib133848234781322774 1
 109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\yargs\locales133848234805009450 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\src\api\trace.d.ts133848234851674613 0
@@ -1130,11 +1136,6 @@
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\installations133848234885327273 1
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\teeny-request\README.md133848234780590127 0
 105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\env-paths133848234775306783 1
-121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\asynckit\serialOrdered.js133848234779351136 0
-136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\vertexai\dist\esm\src\requests133848234805778787 1
-115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\word-wrap\README.md133848234774165249 0
-158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133848234819218113 0
-116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel\LICENSE133848234774200253 0
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\es-define-property133848234780631771 1
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\is-glob\LICENSE133848234770163159 0
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\parse-asn1\README.md133848234779997983 0
@@ -1406,6 +1407,7 @@
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\math-intrinsics\constants\maxSafeInteger.js133848234781362780 0
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\app133848234869802527 1
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\util\package.json133848234777435717 0
+157F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\function-calling.d.ts133848300411492055 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\messaging\dist\compat\auth\index.d.ts133848234872467452 0
 164F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\languages\js\source-code\token-store\decorative-cursor.js133848234806614321 0
 106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\flat-cache133848234775306783 1
@@ -2093,8 +2095,6 @@
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\src\mfa\mfa_error.d.ts133848234870611357 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\teeny-request\node_modules\agent-base\README.md133848234777619529 0
 102F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\parcel133848234779135380 1
-129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\util\dist\node-esm\test133848234808453016 1
-109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\parent-module133848234773986623 1
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase-admin\lib\eventarc\eventarc-client-internal.d.ts133848234817839290 0
 117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\utility-types\LICENSE133848234769870542 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\src\process\ProcessWorker.js133848234798589892 0
@@ -2124,6 +2124,7 @@
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\has-flag\index.d.ts133848234771733858 0
 120F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\weak-lru-cache\README.md133848234779135380 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\storage\dist\performance133848234888534876 1
+153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\server\index.d.ts133848300411602107 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\node\esm\lib\jwt_claims_set.js133848234817423316 0
 161F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\firestore\src\core\snapshot_version.d.ts133848234868948364 0
 166F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\src\load-balancer-round-robin.ts133848234822609122 0
@@ -2790,6 +2791,7 @@
 113F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\y18n\CHANGELOG.md133848234778502682 0
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\teeny-request\node_modules\uuid\dist\esm-browser\nil.js133848234784541437 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\y18n\build\lib\index.js133848234775231768 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\requests\request.d.ts133848300411658203 0
 126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\app-check\dist\compat133848234890709880 1
 185F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\integration\api\numeric_transforms.test.d.ts133848234866179202 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\dist\modules\lib\getActivationStart.js133848234784235795 0
@@ -2846,6 +2848,11 @@
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\dist\esm\functions133848234868042610 1
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\posthtml\node_modules\entities\lib133848234797584853 1
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\web-vitals\src\attribution133848234811353081 1
+121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\asynckit\serialOrdered.js133848234779351136 0
+136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\vertexai\dist\esm\src\requests133848234805778787 1
+115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\word-wrap\README.md133848234774165249 0
+158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\_\_class_static_private_field_update\package.json133848234819218113 0
+116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel\LICENSE133848234774200253 0
 159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\esm2017\test\helpers\id_token_response.d.ts133848234866529682 0
 120F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\packager-css\src133848234773560294 1
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\src\core\util\validation.d.ts133848234821293096 0
@@ -3040,6 +3047,7 @@
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\node\esm\runtime\asn1.js133848234786270474 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fs-extra\lib\util\stat.js133848234797369405 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\semver\functions\neq.js133848234797942310 0
+162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\models\generative-model.d.ts133848300411566395 0
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\websocket-driver\LICENSE.md133848234784613030 0
 156F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\analytics\dist\compat\performance\index.d.ts133848234868614558 0
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\uuid\dist\cjs-browser\parse.d.ts133848234810617350 0
@@ -3071,6 +3079,7 @@
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\node-addon-api\tools\clang-format.js133848234783069091 0
 184F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133848234781352786 0
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@protobufjs\eventemitter\LICENSE133848234773231201 0
+137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\server\package.json133848300411198030 0
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\websocket-driver\lib\websocket\driver\draft76.js133848234775541881 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\semver\functions\patch.js133848234798684980 0
 120F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\protobufjs\src\method.js133848234789273005 0
@@ -3966,6 +3975,7 @@
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\cordova\dist\esm\auth\cordova133848234867144942 1
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\public-encrypt\LICENSE133848234775531876 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\data-connect\index.d.ts133848234870330650 0
+132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\index.mjs133848300411258027 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase-admin\lib\installations\index.d.ts133848234818717056 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\uuid\dist\cjs\v1ToV6.js133848234805069451 0
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\src\types.js133848234802638765 0
@@ -4295,6 +4305,7 @@
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\compat\performance\index.d.ts133848234868243749 0
 164F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\google\protobuf\StringValue.js.map133848234818142070 0
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\teeny-request\node_modules\agent-base133848234778871711 1
+109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.3479ba00.js.map133848301258967818 0
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\build\protos\google\type133848234820730388 1
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\reporter-dev-server\src\templates\404.html133848234773825623 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\src\mfa\index.d.ts133848234869043503 0
@@ -5101,6 +5112,7 @@
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel-map\package.json133848234777919127 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase-admin\lib\firebase-namespace-api.d.ts133848234818182091 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\index.cjs.js133848234809921032 0
+124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\server133848300411188020 1
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\side-channel-map\README.md133848234780305198 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\generated133848234820469114 1
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esm\trace\tracer.js133848234818621955 0
@@ -8024,6 +8036,7 @@
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\json-stable-stringify-without-jsonify\test\str.js133848234782819819 0
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\src\util\node_api.d.ts133848234866129201 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\json-stable-stringify-without-jsonify\test\to-json.js133848234783169291 0
+154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\server\shared.d.ts133848300411769384 0
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\isexe\test\basic.js133848234778955578 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\dist\installations\index.d.ts133848234868092593 0
 154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\json-stable-stringify-without-jsonify\example\value_cmp.js133848234778728487 0
@@ -8155,6 +8168,7 @@
 174F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\node\src\platform_browser\persistence\session_storage.d.ts133848234883722139 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\types\key\import.d.ts133848234821585533 0
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose\dist\types\jwt\produce.d.ts133848234821680638 0
+137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\scripts133848300411729356 1
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\app-check\dist\esm\database133848234866424564 1
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google-cloud\storage\node_modules\uuid\dist\regex.js133848234784416274 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\firestore\dist\esm\compat\storage\index.d.ts133848234883657078 0
@@ -8890,6 +8904,7 @@
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\DO.js133848234820891623 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\hash.js\test\hmac-test.js133848234784749010 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\css-touch-action.js133848234819313295 0
+142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\tsdoc-metadata.json133848300411198030 0
 117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\hash.js\lib\hash.d.ts133848234775892182 0
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\hash.js\lib\hash.js133848234776978710 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\messaging\dist\storage\index.d.ts133848234872873522 0
@@ -9070,6 +9085,7 @@
 163F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\src\core\util\assert.d.ts133848234822233208 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\uuid\dist\esm-node133848234806569252 1
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\entities\lib\esm\package.json133848234789373161 0
+110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.d2e19039.css.map133848272415354117 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\build\protos\google\protobuf\util133848234815293159 1
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\uuid\dist\md5-browser.js133848234779583655 0
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fast-glob\out\utils\pattern.d.ts133848234803676937 0
@@ -9496,6 +9512,7 @@
 174F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\resolving-load-balancer.js.map133848234816469738 0
 164F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\retrying-call.js.map133848234816520616 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\esm\_class_private_method_init.js133848234811068773 0
+167F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods\chat-session-helpers.d.ts133848300411318766 0
 167F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\server-credentials.d.ts133848234823232733 0
 165F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\node_modules\@grpc\grpc-js\build\src\server-credentials.js133848234808822832 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\functions\dist\compat\app\index.cdn.d.ts133848234853172738 0
@@ -9903,6 +9920,7 @@
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\performance\dist\esm\firestore\index.d.ts133848234887136097 0
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\flatted\package.json133848234779874718 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\build\protos\google\api133848234820926761 1
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\enums.d.ts133848300411411863 0
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\build\protos\google\cloud133848234816030421 1
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\utils\unicode\is-emoji-modifier.js133848234811948658 0
 175F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\integration\api\database.test.d.ts133848234845857904 0
@@ -10154,7 +10172,6 @@
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\sw\dist\esm\remote-config\index.d.ts133848234886595581 0
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\installations\dist\esm\src\helpers\idb-manager.test.d.ts133848234808144645 0
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-auth-library\build\src\auth\iam.js133848234796822312 0
-155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\installations\index.d.ts133848234872352359 0
 152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-auth-library\build\src\auth\identitypoolclient.js133848234797091918 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-auth-library\build\src\auth\jwtaccess.d.ts133848234807357934 0
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-auth-library\build\src\auth\loginticket.d.ts133848234807568886 0
@@ -10523,6 +10540,7 @@
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\flat-cache\src\cache.js133848234776197979 0
 106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\async\dist133848234811538600 1
 117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\flat-cache\src\del.js133848234777231064 0
+156F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods\generate-content.d.ts133848300411522054 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\flat-cache\src\utils.js133848234778169304 0
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase-admin\lib133848234818691948 1
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\css-font-stretch.js133848234815188089 0
@@ -11634,6 +11652,7 @@
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\vertexai133848234886093550 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\vertexai\index.d.ts133848234886103583 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\storage\index.d.ts133848234886093550 0
+142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\requests133848300411779388 1
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\remote-config\index.d.ts133848234886083571 0
 165F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\src\core\util\emulator.d.ts133848234852061756 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\messaging\dist\performance\index.d.ts133848234886073556 0
@@ -11812,7 +11831,6 @@
 150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\performance\index.d.ts133848234885347274 0
 126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\auth133848234869822997 1
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\messaging\sw133848234885337286 1
-152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\installations\index.d.ts133848234885327273 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\src\core\SyncTree.d.ts133848234820926761 0
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\esm\data-connect\index.d.ts133848234885284474 0
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\async-retry\LICENSE.md133848234773540273 0
@@ -11859,6 +11877,7 @@
 178F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\specs\persistence_spec.test.d.ts133848234866484560 0
 117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@types\node\repl.d.ts133848234805374785 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esnext\diag\internal\noopLogger.js133848234811292823 0
+150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\scripts\license.d.ts133848300411628094 0
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\compat\index.rn.d.ts133848234891191564 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\installations\dist\compat\messaging133848234885072175 1
 112F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\domutils\LICENSE133848234770763952 0
@@ -12284,6 +12303,7 @@
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\esm\compat\index.rn.d.ts133848234891131549 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\esm\compat\installations133848234883113549 1
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\app-check\dist\esm\src\constants.d.ts133848234796703002 0
+138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\gen-ai.d.ts133848300411512059 0
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\chrome-trace-event\README.md133848234774801060 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\remote-config\package.json133848234818601862 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\database\dist\esm\compat\remote-config133848234883133542 1
@@ -12424,12 +12444,14 @@
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\esm\_write_only_error.js133848234816233973 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\data-connect\dist\compat\auth133848234882415345 1
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\data-connect\dist\compat\database133848234882415345 1
+152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods\chat-session.d.ts133848300411338743 0
 152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\storage\dist\compat\firestore\index.d.ts133848234881693996 0
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\data-connect\dist\compat\index.cdn.d.ts133848234852985822 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esm\trace\link.d.ts133848234846314074 0
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\internal.d.ts133848234816359063 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\esm\analytics\index.d.ts133848234872133435 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\data-connect\dist\compat\index.perf.d.ts133848234890514010 0
+158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server\file-manager.d.ts133848300411441879 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\data-connect\dist\compat\index.rn.d.ts133848234891101506 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\_\_ts_decorate\package.json133848234821650631 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-compat\dist\index.cjs.js.map133848234797299344 0
@@ -12788,6 +12810,7 @@
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\performance\dist\app\index.cdn.d.ts133848234852794002 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esnext\context-api.js.map133848234820132819 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\performance\dist\app\index.d.ts133848234872903504 0
+150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\function-calling.d.ts133848300411502059 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\messaging\package.json133848234818441694 0
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133848234797472541 0
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\messaging\dist\analytics133848234872407363 1
@@ -12903,6 +12926,7 @@
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\browserify-sign\package.json133848234779739653 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\remote-config\index.d.ts133848234872382339 0
 154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\messaging\sw\index.d.ts133848234872372335 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\installations\index.d.ts133848234872352359 0
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\functions\index.d.ts133848234872352359 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\firestore\lite133848234872342344 1
 150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\cordova\dist\compat\firestore\index.d.ts133848234867044553 0
@@ -12924,6 +12948,7 @@
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\database\dist\node-esm\src\core\util\libs133848234818681944 1
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\esm\package.json133848234818356611 0
 150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\data-connect\dist\src\core\QueryManager.d.ts133848234805602792 0
+140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\models133848300411562059 1
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\crypto-browserify\.github\workflows\node-aught.yml133848234796874510 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\esm\performance133848234872302267 1
 148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\installations\dist\esm\remote-config133848234872312310 1
@@ -13503,6 +13528,7 @@
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\index.mjs.map133848234851729706 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\entities\lib\generated\decode-data-html.js.map133848234797871963 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\installations133848234870556273 1
+144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\index.d.ts133848300411566395 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\messaging133848234870566275 1
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@swc\helpers\src\_using.mjs133848234823423838 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\remote-config133848234870586274 1
@@ -13638,6 +13664,7 @@
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\esm\installations133848234870092676 1
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\app\dist\compat\database133848234869421099 1
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\bundler-default\package.json133848234777099029 0
+154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\requests\stream-reader.d.ts133848300411790166 0
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\auth\index.d.ts133848234870225534 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\util\dist\node-esm\index.node.esm.js133848234779280507 0
 154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\SocketData.ts133848234823157644 0
@@ -13687,6 +13714,7 @@
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\profiler\package.json133848234782638879 0
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\esm\storage\index.d.ts133848234870123235 0
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@humanfs\core\dist\fsx.d.ts133848234780250156 0
+125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\LICENSE133848300411112880 0
 148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\esm\performance\index.d.ts133848234870113171 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\app-check\dist\esm\src\internal-api.d.ts133848234801902819 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\auth\dist\esm\messaging\index.d.ts133848234870102662 0
@@ -14234,8 +14262,10 @@
 154F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\firestore\lite\index.d.ts133848234868459304 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\analytics133848234868273749 1
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\database133848234868394176 1
+138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\index.js133848300411177987 0
 165F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\GetTopChannelsRequest.ts133848234821700659 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\index.esm.js133848234811632358 0
+142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\index.js.map133848300411208032 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\index.esm.js.map133848234851523881 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\ajv\lib\compile\util.js133848234805979346 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\auth\web-extension\dist\esm\messaging133848234868429299 1
@@ -15074,6 +15104,7 @@
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fast-glob\README.md133848234798559881 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esm\baggage\internal\symbol.js.map133848234823423838 0
 123F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fast-glob\out\settings.d.ts133848234804138925 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\server\caching.d.ts133848300411298770 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fast-glob\out\settings.js133848234792732768 0
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\fast-glob\out\types133848234802800383 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\esm2017\internal.js.map133848234812319090 0
@@ -15529,6 +15560,7 @@
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\no-script-url.js133848234821501596 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\no-self-assign.js133848234821535552 0
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\no-self-compare.js133848234821565527 0
+150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\responses.d.ts133848300411719345 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\eslint\lib\rules\no-spaced-func.js133848234821690629 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@humanwhocodes\retry\dist133848234780078199 1
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\data-connect\dist\src\api.node.d.ts133848234796723050 0
@@ -16049,6 +16081,7 @@
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\messaging\dist\esm\src\util133848234810923677 1
 112F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\deep-is\index.js133848234775039606 0
 178F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\firestore\test\integration\api\server_timestamp.test.d.ts133848234868709588 0
+150F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\search-grounding.d.ts133848300411749363 0
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\deep-is\README.markdown133848234778975656 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\debug\README.md133848234778204374 0
 115F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\debug\src\common.js133848234773530289 0
@@ -16170,6 +16203,7 @@
 174F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\specs\offline_spec.test.d.ts133848234866284325 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\commondir\readme.markdown133848234775967284 0
 120F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\commondir\example\dir.js133848234774781072 0
+149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\requests.d.ts133848300411678177 0
 109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\commander\lib133848234782133131 1
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\events\lib133848234780922254 1
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\plugin\LICENSE133848234770939368 0
@@ -16202,6 +16236,7 @@
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\clone\package.json133848234770783944 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\clone\README.md133848234773146132 0
 160F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\node\src\core\user\additional_user_info.d.ts133848234821172777 0
+139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\index.d.ts133848300411622152 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\cliui\index.mjs133848234779185396 0
 132F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\stream.js133848234852632615 0
 156F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Server.js133848234808722606 0
@@ -16245,6 +16280,7 @@
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\AF.js133848234780500081 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@eslint-community\regexpp\LICENSE133848234771040287 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\AG.js133848234781212324 0
+137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\index.d.ts133848300411602107 0
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\alt-as.js133848234784708960 0
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\alt-eu.js133848234786260474 0
 131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\alt-na.js133848234789512463 0
@@ -16306,6 +16342,7 @@
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\GP.js133848234822927406 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\GR.js133848234822967394 0
 163F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\browser-cjs\src\platform_browser\mfa\assertions133848234872113452 1
+141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\content.d.ts133848300411383338 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\GU.js133848234823002480 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\GY.js133848234823032556 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\HK.js133848234823212729 0
@@ -16813,6 +16850,7 @@
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\xml-serializer.js133848234866189203 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\zstd.js133848234866234335 0
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\callsites\index.d.ts133848234771783854 0
+139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\enums.d.ts133848300411411863 0
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\callsites\package.json133848234770783944 0
 116F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\call-bound\.eslintrc133848234770783944 0
 126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\lib\index.js.map133848234810502082 0
@@ -17226,7 +17264,9 @@
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\abort-controller\dist\abort-controller.mjs133848234780786551 0
 142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\abort-controller\dist\abort-controller.mjs.map133848234781332785 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\optimizer-css\src133848234773560294 1
+131F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\index.js133848300411152959 0
 141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\abort-controller\dist\abort-controller.umd.js133848234781987576 0
+135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\index.js.map133848300411208032 0
 145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\abort-controller\dist\abort-controller.umd.js.map133848234782658878 0
 110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@types\express133848234774041731 1
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@types\json-schema133848234774816134 1
@@ -17749,6 +17789,7 @@
 163F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\browser-cjs\src\core\persistence\in_memory.d.ts133848234868052615 0
 157F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133848234801385064 0
 159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133848234801565345 0
+142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\server133848300411769384 1
 126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\src\backend.js133848234773800525 0
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\src\bus.js133848234776248028 0
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\workers\src\Handle.js133848234788982234 0
@@ -17803,6 +17844,7 @@
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\config\.testrc133848234771452646 0
 157F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-cjs\src\api\password_policy133848234865903693 1
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\config\config.cjs133848234774061715 0
+128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types133848300411739362 1
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\config\config.js133848234781967569 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\config\config.json133848234808462998 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\utils\test\input\config\empty.toml133848234810627349 0
@@ -18165,6 +18207,7 @@
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\duplicate-targets133848234818172085 1
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\invalid-distpath133848234818202093 1
 193F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\src\platform_react_native\persistence\react_native.d.ts133848234881724794 0
+157F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\search-grounding.d.ts133848300411739362 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\invalid-engines133848234818232749 1
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@babel\code-frame\lib\index.js.map133848234775446703 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133848234809403966 1
@@ -18249,6 +18292,7 @@
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\lib\requests133848234816409737 1
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@opentelemetry\api\build\esnext\platform\index.d.ts133848234846056756 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\lib\resolveOptions.js133848234811823530 0
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server\request.d.ts133848300411668188 0
 138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\lib\serializerCore.browser.js133848234811968659 0
 130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\lib\serializerCore.js133848234812043794 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133848234814573282 0
@@ -18991,6 +19035,7 @@
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Security.js.map133848234816213988 0
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\Server.d.ts133848234822892301 0
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\ServerData.d.ts133848234822987419 0
+145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\errors.d.ts133848300411421897 0
 164F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\ServerData.js.map133848234816459747 0
 161F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\ServerRef.d.ts133848234823022523 0
 159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\ServerRef.js133848234809017962 0
@@ -19331,6 +19376,69 @@
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google-cloud\firestore\build\protos\google\api\resource.proto133848234812309082 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@fastify\busboy\lib\types\urlencoded.js133848234783701092 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google-cloud\firestore\build\protos\firestore\bundle.proto133848234810782515 0
+139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\error.d.ts133848234784892483 0
+117F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai133848300411228036 1
+122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist133848300411522054 1
+126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-types\README.md133848234771952375 0
+130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\package.json133848300411188020 0
+127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\README.md133848300411228036 0
+141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\generative-ai.d.ts133848300411552051 0
+136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\index.mjs.map133848300411218023 0
+130F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\scripts133848300411729356 1
+129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server133848300411749363 1
+126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src133848300411638185 1
+142F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\requests.d.ts133848300411689366 0
+143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\responses.d.ts133848300411719345 0
+135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\server133848300411769384 1
+148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\server\caching.d.ts133848300411308745 0
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\server\files.d.ts133848300411456913 0
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\server\index.d.ts133848300411628094 0
+147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\types\server\shared.d.ts133848300411779388 0
+138F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\errors.d.ts133848300411431893 0
+134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods133848300411522054 1
+133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\models133848300411566395 1
+135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\requests133848300411779388 1
+133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server133848300411668188 1
+152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server\cache-manager.d.ts133848300411298770 0
+148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server\constants.d.ts133848300411358746 0
+184F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\document_overlay_cache.test.d.ts133848234846434641 0
+151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server\file-manager.d.ts133848300411441879 0
+144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\server\index.d.ts133848300411612150 0
+152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\index.doc.d.ts133848234869360641 0
+156F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\requests\request-helpers.d.ts133848300411648191 0
+148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\requests\request.d.ts133848300411668188 0
+157F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\requests\response-helpers.d.ts133848300411699364 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\models\generative-model.d.ts133848300411566395 0
+152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods\count-tokens.d.ts133848300411389775 0
+153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\src\methods\embed-content.d.ts133848300411401790 0
+139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\index.mjs133848300411278026 0
+143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\index.mjs.map133848300411218023 0
+141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\server.d.ts133848300411759350 0
+133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src133848300411638185 1
+135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types133848300411729356 1
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\index.d.ts133848300411594299 0
+153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\types\server\files.d.ts133848300411441879 0
+145F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\gen-ai.d.ts133848300411512059 0
+141F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods133848300411512059 1
+140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server133848300411658203 1
+159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server\cache-manager.d.ts133848300411288753 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server\constants.d.ts133848300411358746 0
+151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server\index.d.ts133848300411576488 0
+153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\server\request.d.ts133848300411658203 0
+163F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\requests\request-helpers.d.ts133848300411638185 0
+164F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\requests\response-helpers.d.ts133848300411689366 0
+161F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\requests\stream-reader.d.ts133848300411779388 0
+159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods\chat-session.d.ts133848300411338743 0
+159F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods\count-tokens.d.ts133848300411389775 0
+160F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods\embed-content.d.ts133848300411401790 0
+163F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\src\methods\generate-content.d.ts133848300411522054 0
+155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\scripts\check-format.d.ts133848300411348758 0
+158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\scripts\format-patterns.d.ts133848300411466963 0
+153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\server\scripts\run-format.d.ts133848300411729356 0
+148F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\scripts\check-format.d.ts133848300411348758 0
+151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\scripts\format-patterns.d.ts133848300411456913 0
+143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\scripts\license.d.ts133848300411628094 0
+146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@google\generative-ai\dist\scripts\run-format.d.ts133848300411729356 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\analytics-compat\package.json133848234775428845 0
 122F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\analytics-compat133848234778427627 1
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\analytics-types133848234772758804 1
@@ -19980,7 +20088,6 @@
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\test\utils.d.ts133848234798459451 0
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\api.d.ts133848234781768831 0
 143F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\constants.d.ts133848234783459400 0
-139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\error.d.ts133848234784892483 0
 165F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\firestore\src\local\persistence_promise.d.ts133848234866464563 0
 139F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\index.d.ts133848234796723050 0
 146F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\functions\dist\esm\src\public-types.d.ts133848234797253487 0
@@ -20129,7 +20236,6 @@
 168F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\model\target.test.d.ts133848234869411093 0
 168F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\model\values.test.d.ts133848234870163210 0
 174F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\bundle_cache.test.d.ts133848234823742225 0
-184F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\document_overlay_cache.test.d.ts133848234846434641 0
 183F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\indexeddb_persistence.test.d.ts133848234852672615 0
 178F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\index_backfiller.test.d.ts133848234852144755 0
 178F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\firestore\dist\lite\firestore\test\unit\local\local_serializer.test.d.ts133848234856191457 0
@@ -20881,7 +20987,6 @@
 153F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\component\dist\esm\src\component_container.d.ts133848234780280154 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-types\index.d.ts133848234773605350 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-types\package.json133848234771030281 0
-126F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-types\README.md133848234771952375 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-interop-types\index.d.ts133848234773280407 0
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-interop-types\package.json133848234771020292 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth-interop-types\README.md133848234771942358 0
@@ -20947,7 +21052,6 @@
 133F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-cjs133848234883383183 1
 137F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017133848234883393189 1
 161F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\auth-web-extension.d.ts133848234824059730 0
-152F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\index.doc.d.ts133848234869360641 0
 155F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\index.shared.d.ts133848234869561495 0
 162F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\index.web-extension.d.ts133848234869642249 0
 158F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\web-extension-esm2017\index.webworker.d.ts133848234869722521 0
@@ -22288,6 +22392,8 @@
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\semver.cmd133848234891519048 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\semver.ps1133848234891519048 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\update-browserslist-db.cmd133848234891519048 0
-98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.html133848253107887436 0
+105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.3479ba00.js133848301258863521 0
+106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.d2e19039.css133848272415322810 0
+98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.html133848301258858360 0
 114F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\service-worker.b7189322.js133848238843145509 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\.github\workflows\deploy.yml133848248618436031 0
