@@ -80,6 +80,40 @@ async function askChatBot(request) {
     }
 }
 
+// Load incomes and expenses on window load
+window.addEventListener('load', async () => {
+    await renderIncome();
+    await renderExpenses();
+    updateSummary();
+});
+
+// Fetch and render incomes
+async function renderIncome() {
+    const incomesSnapshot = await getDocs(collection(db, "incomes"));
+    let totalIncome = 0;
+    incomesSnapshot.forEach(doc => {
+        totalIncome += doc.data().amount;
+    });
+    totalIncomeElem.textContent = totalIncome.toFixed(2);
+}
+
+// Fetch and render expenses
+async function renderExpenses() {
+    const expensesSnapshot = await getDocs(collection(db, "expenses"));
+    let totalExpenses = 0;
+    expensesSnapshot.forEach(doc => {
+        totalExpenses += doc.data().amount;
+    });
+    totalExpensesElem.textContent = totalExpenses.toFixed(2);
+}
+
+// Update Summary
+function updateSummary() {
+    const totalIncome = parseFloat(totalIncomeElem.textContent) || 0;
+    const totalExpenses = parseFloat(totalExpensesElem.textContent) || 0;
+    balanceElem.textContent = (totalIncome - totalExpenses).toFixed(2);
+}
+
 // Add Income
 addIncomeBtn.addEventListener('click', async () => {
     const incomeAmount = parseFloat(sanitizeInput(incomeInput.value.trim()));
@@ -87,6 +121,8 @@ addIncomeBtn.addEventListener('click', async () => {
         await addDoc(collection(db, "incomes"), { amount: incomeAmount });
         incomeInput.value = '';
         alert("Income added successfully!");
+        renderIncome();
+        updateSummary();
     } else {
         alert("Please enter a valid income amount.");
     }
@@ -101,6 +137,8 @@ addExpenseBtn.addEventListener('click', async () => {
         expenseAmountInput.value = '';
         expenseCategoryInput.value = '';
         alert("Expense added successfully!");
+        renderExpenses();
+        updateSummary();
     } else {
         alert("Please enter a valid expense amount and category.");
     }
