@@ -3,7 +3,6 @@ import { getDoc, getDocs, addDoc, getFirestore, collection } from
 import { initializeApp } from "firebase/app";
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-
 // import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
@@ -176,13 +175,20 @@ async function getApiKey() {
 }
 
 async function askChatBot(request) {
-    const apiKey = await getApiKey();
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-    const response = await model.generateContent(request);
-    return response.text();
+    try {
+        const apiKey = await getApiKey();  // Get the API key from Firestore
+        const genAI = new GoogleGenerativeAI(apiKey);  // Initialize the AI with the API key
+
+        const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });  // Get the generative model
+        const result = await model.generateContent(request);  // Get the AI response
+        return result.response.text();  // Return the AI response as text
+    } catch (error) {
+        console.error("Error with Generative AI:", error);  // Handle any errors
+        return "Sorry, there was an error. Please try again later.";
+    }
 }
 
+// Function to append messages to chat history
 function appendMessage(text, isUser = false) {
     const message = document.createElement("div");
     message.classList.add("message", isUser ? "user-message" : "bot-message");
@@ -191,23 +197,13 @@ function appendMessage(text, isUser = false) {
     chatHistory.scrollTop = chatHistory.scrollHeight;
 }
 
-sendBtn.addEventListener('click', async () => {
+// Handling the send button click to send input and get the AI response
+sendBtn.addEventListener("click", async () => {
     const userInput = chatInput.value.trim();
-    if (!userInput) return;
-    appendMessage(userInput, true);
-    chatInput.value = '';
-    
-    const botResponse = await askChatBot(userInput);
-    appendMessage(botResponse, false);
+    if (!userInput) return;  // Don't send if input is empty
+    appendMessage(userInput, true);  // Display user message in chat
+    chatInput.value = "";  // Clear input field
+
+    const botResponse = await askChatBot(userInput);  // Get the bot response
+    appendMessage(botResponse, false);  // Display bot message in chat
 });
-
-// Load previous chat history if needed (from Firebase)
-async function loadChatHistory() {
-    const chatSnapshot = await getDocs(collection(db, "chat-history"));
-    chatSnapshot.forEach(doc => {
-        appendMessage(doc.data().message, doc.data().isUser);
-    });
-}
-
-window.addEventListener('load', loadChatHistory);
-
