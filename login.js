@@ -18,6 +18,8 @@ loginBtn.addEventListener("click", async () => {
     try {
         await signInWithEmailAndPassword(auth, email, password);
         messageElem.textContent = "Login successful!";
+        window.location.replace("./main.html");
+
     } catch (error) {
         messageElem.textContent = "Error: " + error.message;
     }
@@ -29,6 +31,7 @@ googleSignInBtn.addEventListener("click", async () => {
     try {
         await signInWithPopup(auth, provider);
         messageElem.textContent = "Google Sign-In successful!";
+        window.location.replace("./main.html");
     } catch (error) {
         messageElem.textContent = "Error: " + error.message;
     }
@@ -56,6 +59,7 @@ biometricSignInBtn.addEventListener("click", async () => {
         const credential = await navigator.credentials.create({ publicKey });
         if (credential) {
             messageElem.textContent = "Biometric authentication successful!";
+            window.location.replace("./main.html");
         } else {
             messageElem.textContent = "Biometric authentication failed.";
         }
