@@ -1,4 +1,7 @@
-import { auth } from "./firebaseconfig";
+import { 
+    auth 
+} from "./firebaseconfig";
+
 import { 
     signInWithEmailAndPassword, 
     createUserWithEmailAndPassword, 
@@ -16,11 +19,11 @@ const loginBtn = document.getElementById("loginBtn");
 const googleSignInBtn = document.getElementById("googleSignInBtn");
 const biometricSignInBtn = document.getElementById("biometricSignInBtn");
 const createAccountBtn = document.getElementById("createAccountBtn");
-const messageElem = document.getElementById("message");
 
 // Redirect on login
 onAuthStateChanged(auth, (user) => {
     if (user) {
+        console.log("User authenticated, redirecting...");
         window.location.href = "./main.html";
     }
 });
@@ -33,8 +36,9 @@ loginBtn.addEventListener("click", async () => {
     try {
         await setPersistence(auth, browserLocalPersistence);
         await signInWithEmailAndPassword(auth, email, password);
+        console.log("Login successful!");
     } catch (error) {
-        messageElem.textContent = "Error: " + error.message;
+        console.error("Login Error:", error.message);
     }
 });
 
@@ -43,15 +47,16 @@ googleSignInBtn.addEventListener("click", async () => {
     const provider = new GoogleAuthProvider();
     try {
         await signInWithPopup(auth, provider);
+        console.log("Google Sign-In successful!");
     } catch (error) {
-        messageElem.textContent = "Error: " + error.message;
+        console.error("Google Sign-In Error:", error.message);
     }
 });
 
 // Biometric Authentication (WebAuthn - Simplified)
 biometricSignInBtn.addEventListener("click", async () => {
     if (!window.PublicKeyCredential) {
-        messageElem.textContent = "Biometric authentication not supported.";
+        console.error("Biometric authentication not supported.");
         return;
     }
 
@@ -69,12 +74,12 @@ biometricSignInBtn.addEventListener("click", async () => {
 
         const credential = await navigator.credentials.create({ publicKey });
         if (credential) {
-            messageElem.textContent = "Biometric authentication successful!";
+            console.log("Biometric authentication successful!");
         } else {
-            messageElem.textContent = "Biometric authentication failed.";
+            console.error("Biometric authentication failed.");
         }
     } catch (error) {
-        messageElem.textContent = "Error: " + error.message;
+        console.error("Biometric Auth Error:", error.message);
     }
 });
 
@@ -84,14 +89,14 @@ createAccountBtn.addEventListener("click", async () => {
     const password = passwordInput.value.trim();
 
     if (email === "" || password === "") {
-        messageElem.textContent = "Please enter both email and password.";
+        console.error("Please enter both email and password.");
         return;
     }
 
     try {
         await createUserWithEmailAndPassword(auth, email, password);
-        messageElem.textContent = "Account created successfully!";
+        console.log("Account created successfully!");
     } catch (error) {
-        messageElem.textContent = "Error: " + error.message;
+        console.error("Account Creation Error:", error.message);
     }
 });
