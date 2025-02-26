@@ -24,7 +24,7 @@ const createAccountBtn = document.getElementById("createAccountBtn");
 onAuthStateChanged(auth, (user) => {
     if (user) {
         console.log("User authenticated, redirecting...");
-        window.location.href = "./main.html";
+        window.location.href = "/webassignment/main.html";
     }
 });
 
