@@ -112,7 +112,7 @@
 119F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\lines-and-columns\build133848234775581884 1
 147F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\remote-config\dist\esm\auth\cordova133848234873491264 1
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\remote-config\dist\compat\functions133848234887433476 1
-87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs133850077083158686 1
+87F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs133850084215647305 1
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\database\dist\esm\compat\index.cdn.d.ts133848234852572272 0
 151F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\performance\dist\esm\app\index.cdn.d.ts133848234852825455 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\regions\TL.js133848234852955788 0
@@ -160,7 +160,7 @@
 166F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@firebase\auth\dist\browser-cjs\test\helpers\mock_auth_credential.d.ts133848234871319898 0
 90F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\LICENSE133848233841079652 0
 129F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\lightningcss\node\targets.js.flow133848234778224451 0
-91F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\login.js133850059832140517 0
+91F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\login.js133850083068193242 0
 108F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\is-arguments133848234781272327 1
 125F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\object-inspect\test\values.js133848234797699957 0
 128F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\is-arguments\.github\FUNDING.yml133848234781683718 0
@@ -1744,7 +1744,6 @@
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\caniuse-lite\data\features\serviceworkers.js133848234852411856 0
 121F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\which-typed-array\LICENSE133848234774165249 0
 100F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\jose133848234820966769 1
-109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.9b95809f.js.map133850077083158686 0
 134F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\uri-js\dist\esnext\schemes\mailto.d.ts133848234802821864 0
 135F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\core\test\InternalAsset.test.js133848234808933159 0
 105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\js-tokens133848234775271775 1
@@ -8859,7 +8858,7 @@
 136F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\html-entities\src\numeric-unicode-map.ts133848234784852507 0
 149F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\firebase\compat\firestore\dist\compat\auth\index.d.ts133848234871053820 0
 118F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\balanced-match\.github133848234775666976 1
-110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.057d6c73.css.map133850077083143018 0
+110F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.057d6c73.css.map133850084215625436 0
 140F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\google-gax\build\protos\google\monitoring\v3133848234820841636 1
 124F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\html-entities\lib\index.d.ts133848234782784732 0
 144F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js133848234784541437 0
@@ -22412,7 +22411,8 @@
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\semver.cmd133848234891519048 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\semver.ps1133848234891519048 0
 127F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\node_modules\.bin\update-browserslist-db.cmd133848234891519048 0
-106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.057d6c73.css133850077082982285 0
-105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.9b95809f.js133850077082987477 0
-98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.html133850077082966270 0
+106F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.057d6c73.css133850084215487882 0
+105F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.ac45296b.js133850084215493084 0
+109F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.ac45296b.js.map133850084215641197 0
+98F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\docs\index.html133850084215467238 0
 111F:\Code Repositiories\Fanshawe College\Web Dev Trands\Web Assignment\webassignment\.github\workflows\deploy.yml133848248618436031 0
