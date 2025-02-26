@@ -1,0 +1,2 @@
+var r=globalThis,e={},t={},o=r.parcelRequire94c2;null==o&&((o=function(r){if(r in e)return e[r].exports;if(r in t){var o=t[r];delete t[r];var n={id:r,exports:{}};return e[r]=n,o.call(n.exports,n,n.exports),n.exports}var i=Error("Cannot find module '"+r+"'");throw i.code="MODULE_NOT_FOUND",i}).register=function(r,e){t[r]=e},r.parcelRequire94c2=o),o.register;var n=o("3FCmC");(0,o("6AR8M").onAuthStateChanged)(n.auth,r=>{r||(window.location.href="login.html")});
+//# sourceMappingURL=main.b4c42f88.js.map
