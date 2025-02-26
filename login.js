@@ -50,7 +50,7 @@ googleSignInBtn.addEventListener("click", async () => {
     }
 });
 
-// Biometric Authentication (WebAuthn - Simplified)
+// Biometric Authentication
 biometricSignInBtn.addEventListener("click", async () => {
     if (!window.PublicKeyCredential) {
         console.error("Biometric authentication not supported.");
@@ -80,25 +80,25 @@ biometricSignInBtn.addEventListener("click", async () => {
     }
 });
 
-// Create Account with Email and Password
+// Create Account
 createAccountBtn.addEventListener("click", async () => {
     const email = emailInput.value.trim();
     const password = passwordInput.value.trim();
 
     if (email === "" || password === "") {
-        console.error("Please enter both email and password.");
+        alert("Please enter both email and password.");
         return;
     }
 
     try {
         await createUserWithEmailAndPassword(auth, email, password);
-        console.log("Account created successfully!");
+        alert("Account created successfully!");
     } catch (error) {
         console.error("Account Creation Error:", error.message);
     }
 });
 
-// Add event listeners to trigger button clicks on Enter keypress
+// Enter keypress
 emailInput.addEventListener("keypress", (event) => {
     if (event.key === "Enter") {
         loginBtn.click();
@@ -111,15 +111,15 @@ passwordInput.addEventListener("keypress", (event) => {
     }
 });
 
-// Trigger Google Sign-In on Enter keypress in email or password input (optional)
+//  Google Sign-In 
 emailInput.addEventListener("keypress", (event) => {
     if (event.key === "Enter") {
-        googleSignInBtn.click();  // Optional: Google sign-in when Enter is pressed in email field
+        googleSignInBtn.click(); 
     }
 });
 
 passwordInput.addEventListener("keypress", (event) => {
     if (event.key === "Enter") {
-        googleSignInBtn.click();  // Optional: Google sign-in when Enter is pressed in password field
+        googleSignInBtn.click();  
     }
 });

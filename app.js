@@ -3,7 +3,6 @@ import { app, db } from "./firebaseconfig";
 import { GoogleGenerativeAI } from '@google/generative-ai';
 import DOMPurify from 'dompurify';
 
-// DOM Elements
 const chatHistory = document.getElementById('chat-history');
 const chatInput = document.getElementById('chat-input');
 const sendBtn = document.getElementById('send-btn');
@@ -16,12 +15,12 @@ const totalIncomeElem = document.getElementById('totalIncome');
 const totalExpensesElem = document.getElementById('totalExpenses');
 const balanceElem = document.getElementById('balance');
 
-// Function to sanitize user input
+// sanitize user input
 function sanitizeInput(input) {
     return DOMPurify.sanitize(input);
 }
 
-// Function to append messages to chat history
+// append messages history
 function appendMessage(text, isUser = false) {
     const message = document.createElement("div");
     message.classList.add("message", isUser ? "user-message" : "bot-message");
@@ -30,14 +29,14 @@ function appendMessage(text, isUser = false) {
     chatHistory.scrollTop = chatHistory.scrollHeight;
 }
 
-// Handle Enter key press for accessibility
+// Handle Enter
 chatInput.addEventListener("keypress", (event) => {
     if (event.key === "Enter") {
         sendBtn.click();
     }
 });
 
-// Send button event listener
+// Send
 sendBtn.addEventListener("click", async () => {
     let userInput = chatInput.value.trim();
     if (!userInput) {
@@ -66,15 +65,15 @@ async function askChatBot(request) {
     }
 }
 
-// Load incomes and expenses on window load
+// Load incomes and expenses
 window.addEventListener('load', async () => {
-    const userId = firebase.auth().currentUser.uid;  // Get the current user ID
+    const userId = firebase.auth().currentUser.uid;
     await renderIncome(userId);
     await renderExpenses(userId);
     updateSummary();
 });
 
-// Fetch and render incomes for a specific user
+//incomes
 async function renderIncome(userId) {
     const incomesQuery = query(collection(db, "incomes"), where("userId", "==", userId));
     const incomesSnapshot = await getDocs(incomesQuery);
@@ -85,7 +84,7 @@ async function renderIncome(userId) {
     totalIncomeElem.textContent = totalIncome.toFixed(2);
 }
 
-// Fetch and render expenses for a specific user
+//expenses
 async function renderExpenses(userId) {
     const expensesQuery = query(collection(db, "expenses"), where("userId", "==", userId));
     const expensesSnapshot = await getDocs(expensesQuery);
@@ -105,12 +104,12 @@ function updateSummary() {
 
 // Add Income
 addIncomeBtn.addEventListener('click', async () => {
-    const userId = firebase.auth().currentUser.uid;  // Get the current user ID
+    const userId = firebase.auth().currentUser.uid;  
     const incomeAmount = parseFloat(sanitizeInput(incomeInput.value.trim()));
     if (!isNaN(incomeAmount) && incomeAmount > 0) {
         await addDoc(collection(db, "incomes"), { 
             amount: incomeAmount, 
-            userId: userId  // Store the userId along with the income
+            userId: userId  
         });
         incomeInput.value = '';
         alert("Income added successfully!");
@@ -123,14 +122,14 @@ addIncomeBtn.addEventListener('click', async () => {
 
 // Add Expense
 addExpenseBtn.addEventListener('click', async () => {
-    const userId = firebase.auth().currentUser.uid;  // Get the current user ID
+    const userId = firebase.auth().currentUser.uid; 
     const expenseAmount = parseFloat(sanitizeInput(expenseAmountInput.value.trim()));
     const expenseCategory = sanitizeInput(expenseCategoryInput.value.trim());
     if (!isNaN(expenseAmount) && expenseAmount > 0 && expenseCategory) {
         await addDoc(collection(db, "expenses"), { 
             amount: expenseAmount, 
             category: expenseCategory, 
-            userId: userId  // Store the userId along with the expense
+            userId: userId  
         });
         expenseAmountInput.value = '';
         expenseCategoryInput.value = '';

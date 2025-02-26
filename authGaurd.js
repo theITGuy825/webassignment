@@ -3,6 +3,6 @@ import { onAuthStateChanged } from "firebase/auth";
 
 onAuthStateChanged(auth, (user) => {
     if (!user) {
-        window.location.href = "login.html";  // Redirect if not logged in
+        window.location.href = "login.html"; 
     }
 });
