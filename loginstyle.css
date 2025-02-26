@@ -1,0 +1,90 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Login Container */
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Headings */
+h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Input Fields */
+input[type="email"],
+input[type="password"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Google Sign-In Button */
+.google-btn {
+    background-color: #db4437;
+}
+
+.google-btn:hover {
+    background-color: #c1351d;
+}
+
+/* Biometric Login Button */
+.biometric-btn {
+    background-color: #4285F4;
+}
+
+.biometric-btn:hover {
+    background-color: #3367D6;
+}
+
+/* Create Account Button */
+.create-account-btn {
+    background-color: #fbbc05;
+}
+
+.create-account-btn:hover {
+    background-color: #e6a700;
+}
+
+/* Message Styling */
+#message {
+    color: red;
+    margin-top: 10px;
+}

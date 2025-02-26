@@ -1,5 +1,13 @@
 import { auth } from "./firebaseconfig";
-import { signInWithEmailAndPassword, createUserWithEmailAndPassword, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
+import { 
+    signInWithEmailAndPassword, 
+    createUserWithEmailAndPassword, 
+    GoogleAuthProvider, 
+    signInWithPopup,
+    setPersistence,
+    browserLocalPersistence,
+    onAuthStateChanged
+} from "firebase/auth";
 
 // DOM Elements
 const emailInput = document.getElementById("email");
@@ -10,16 +18,21 @@ const biometricSignInBtn = document.getElementById("biometricSignInBtn");
 const createAccountBtn = document.getElementById("createAccountBtn");
 const messageElem = document.getElementById("message");
 
+// Redirect on login
+onAuthStateChanged(auth, (user) => {
+    if (user) {
+        window.location.href = "./main.html";
+    }
+});
+
 // Login with Email and Password
 loginBtn.addEventListener("click", async () => {
     const email = emailInput.value.trim();
     const password = passwordInput.value.trim();
 
     try {
+        await setPersistence(auth, browserLocalPersistence);
         await signInWithEmailAndPassword(auth, email, password);
-        messageElem.textContent = "Login successful!";
-        window.location.replace("./main.html");
-
     } catch (error) {
         messageElem.textContent = "Error: " + error.message;
     }
@@ -30,8 +43,6 @@ googleSignInBtn.addEventListener("click", async () => {
     const provider = new GoogleAuthProvider();
     try {
         await signInWithPopup(auth, provider);
-        messageElem.textContent = "Google Sign-In successful!";
-        window.location.replace("./main.html");
     } catch (error) {
         messageElem.textContent = "Error: " + error.message;
     }
@@ -59,7 +70,6 @@ biometricSignInBtn.addEventListener("click", async () => {
         const credential = await navigator.credentials.create({ publicKey });
         if (credential) {
             messageElem.textContent = "Biometric authentication successful!";
-            window.location.replace("./main.html");
         } else {
             messageElem.textContent = "Biometric authentication failed.";
         }
