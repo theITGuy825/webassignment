@@ -1,7 +1,4 @@
-import { 
-    auth 
-} from "./firebaseconfig";
-
+import { auth } from "./firebaseconfig";
 import { 
     signInWithEmailAndPassword, 
     createUserWithEmailAndPassword, 
@@ -98,5 +95,31 @@ createAccountBtn.addEventListener("click", async () => {
         console.log("Account created successfully!");
     } catch (error) {
         console.error("Account Creation Error:", error.message);
+    }
+});
+
+// Add event listeners to trigger button clicks on Enter keypress
+emailInput.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        loginBtn.click();
+    }
+});
+
+passwordInput.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        loginBtn.click();
+    }
+});
+
+// Trigger Google Sign-In on Enter keypress in email or password input (optional)
+emailInput.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        googleSignInBtn.click();  // Optional: Google sign-in when Enter is pressed in email field
+    }
+});
+
+passwordInput.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        googleSignInBtn.click();  // Optional: Google sign-in when Enter is pressed in password field
     }
 });
